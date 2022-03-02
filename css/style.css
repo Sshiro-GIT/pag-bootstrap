@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+.footer{
+    color: rgb(255, 255, 255);
+}
+#formm{
+    padding: 120px;
+}
+#titulo-formulario {
+    color: #3f3f3f;
+}
+
+.abajo{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
